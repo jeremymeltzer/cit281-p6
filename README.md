@@ -1,1 +1,1 @@
-# cit281-p6
+We worked with classes again to get the area and perimeter of different shapes. We made Shape, Rectangle, and Triangle classes, and wrote methods to calculate the area and perimeter for each type of shape.
